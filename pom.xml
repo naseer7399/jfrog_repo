@@ -6,7 +6,7 @@
 
   <groupId>Demo</groupId>
   <artifactId>jfrog</artifactId>
-  <version>5.10-SNAPSHOT</version>
+  <version>5.2-SNAPSHOT</version>
 
   <name>jfrog</name>
   <!-- FIXME change it to the project's website -->
